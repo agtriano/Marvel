@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="image_content_desc">image</string>
+    <string name="initapp">Marvel  News</string>
+    <string name="endapp">Thanks from AGT</string>
+    <string name="subcontent"> Data provided by Marvel. © 2022 MARVEL</string>
+    <string name="series">Series</string>
+
+
+</resources>
